@@ -1,0 +1,137 @@
+
+
+body{
+    height: 2900px;
+    margin: 0%;
+    padding: 0%;
+   /* background: url(../images/linkedin-sales-solutions-Be5aVKFv9ho-unsplash.jpg);
+    background-size: cover;*/
+   
+}
+html ,body{
+    font-size: 17px;
+}
+html{
+    box-sizing: border-box;
+}
+.sagcubuk{
+    float: right!important;
+    letter-spacing: 5px;
+    color: #000!important;
+    position: fixed;
+    margin: 1px -4px 2px 620px;
+    background-color: #fff!important;
+
+}
+.headcard{
+   /* position: fixed;*/
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+   
+   
+}
+.foto{
+    max-width: 100%;
+    height: auto;
+}
+a:link{
+    text-decoration: none;
+    color:black;
+    font-size: 19px;
+    font-family: 'times new roman',
+    
+
+}
+.mainCards{
+   max-width: 1564px;
+   padding: 8px 16px!important;
+   display: flex;
+   
+}
+.cardContent{
+   width: 949px;
+   height: 400px;
+   background-color: white;
+   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+   transform: scale(1.05);
+    box-shadow: 0 0 40px -10px rgba(0, 0, 0, 0.25);
+  margin: 42px;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-flow: wrap;
+  overflow: auto;
+  
+ 
+}
+.mainCards2{
+    max-width: 1564px;
+   padding: 8px 16px!important;
+   display: flex;
+
+}
+.mainCards2 .cardContent{
+    width: 363px;
+    height: 400px;
+    background-color: white;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    transform: scale(1.05);
+     box-shadow: 0 0 40px -10px rgba(0, 0, 0, 0.25);
+   margin: 42px;
+   flex-direction: row;
+   justify-content: space-around;
+   flex-flow: wrap;
+
+ }
+h3{
+    margin: 9px 8px 7px 140px;
+    font-size: 100%;
+}
+i img{
+    font-size: 10px;
+    width: 54px;
+    height: 54px;
+    border-radius: 4px;
+    margin: 1px 1px 8px 150px;
+    border-radius: 100%;
+}
+.footer{
+  background: black;
+  height: 200px;
+  width: 100vw;
+  font-family: "Open Sans";
+  padding-top: 40px;
+  color: #fff;
+  margin : 1050px 24px 8px -17px
+}
+.sorunBildir{
+    width: 949px;
+   height: 400px;
+   background-color: white;
+   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+   transform: scale(1.05);
+    box-shadow: 0 0 40px -10px rgba(0, 0, 0, 0.25);
+  margin: 60px -16px 2px 200px;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-flow: wrap;
+  overflow: auto;
+}
+ input{
+    padding: 15%;
+    margin: 10px 11px 12px 240px;
+
+}
+button{
+    margin: 3px 0px 1px 241px;
+    padding: 12px;
+    width: 48%;
+    font-size: 106%;
+    background-color: #4CAF50;
+    margin: 3px 0px 1px 241px;
+    padding: 12px;
+    width: 48%;
+    border: inherit;
+   
+    font-family: sans-serif;
+}
+
+

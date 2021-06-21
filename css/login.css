@@ -1,0 +1,73 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: url(../images/maranda-vandergriff-7aakZdIl4vg-unsplash.jpg);
+    background-size: cover;
+   
+   
+}
+.loginDev{
+    width: 900px;
+    height: 497px;
+}
+.opacity{
+    height: 500px;
+    width: 619px;
+    margin: 115px 0px 1px 338px;
+    background-color: rgba(204,204,204,0.8) !important;
+    height: 450px;
+    padding-top: 2.5px;
+}
+
+
+.form-container{
+    background-color: rgb(41, 216, 129) ;
+    margin: -418px -22px -65px 534px;;
+    width: 275px;
+    height: 378px;
+    
+
+}
+ 
+.form {
+    position: relative;
+    z-index: 1;
+  
+    max-width: 0px;
+    margin: -70px 8px 8px -56px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.form input {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  }
+  .form button {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background-color: #328f8a;
+    background-image: linear-gradient(45deg,#328f8a,#08ac4b);
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+  }
+
+
+
+
